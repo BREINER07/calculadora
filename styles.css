@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    background-color: #ffffff;
     }
   
   .calculator {
@@ -8,6 +9,7 @@ body {
     padding: 30px;
     border: 5px solid #73ff96;
     border-radius: 10px;
+    background: linear-gradient(to left, #41a2fc,#73ff96);
   }
   
   input[type="text"] {
